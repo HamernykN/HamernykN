@@ -18,5 +18,5 @@ I’m an experienced Front-End Developer with over 5 years of expertise in craft
 
 ## 📫 How to Reach Me
 Feel free to connect with me on:
-- [LinkedIn]([https://www.linkedin.com/in/nazar-hamernyk-1a94b3175/])
+- [LinkedIn][https://www.linkedin.com/in/nazar-hamernyk-1a94b3175/]
 - Email: [gamernyk.n@gmail.com](mailto:gamernyk.n@gmail.com)
