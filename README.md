@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Nazar Hamernyk
 
 ## About Me 🚀
-I’m an experienced Front-End Developer with over 5 years of expertise in crafting scalable, high-performance web applications. My passion lies in leveraging cutting-edge web technologies to create user-centric solutions that not only engage users but also drive business success. I pride myself on my keen eye for design and functionality.
+I’m an experienced Front-End Developer with over 6 years of expertise in crafting scalable, high-performance web applications. My passion lies in leveraging cutting-edge web technologies to create user-centric solutions that not only engage users but also drive business success. I pride myself on my keen eye for design and functionality.
 
 ## 🔭 Expertise
 - **Front-End Development**: Proficient in React.js and Next.js, utilizing TypeScript for enhanced code quality and maintainability.
